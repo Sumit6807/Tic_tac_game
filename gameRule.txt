@@ -1,0 +1,18 @@
+The rules of playing Tic Tac Toe are quite straightforward:
+
+Game Setup: Begin by drawing a 3x3 grid on a piece of paper or using a digital platform.
+
+Player Markers: Decide which player will use "X" and which will use "O". Players will alternate turns throughout the game, with "X" typically going first.
+
+Taking Turns: Players take turns placing their marker ("X" or "O") in an empty cell of the grid. Once placed, marks cannot be moved or removed.
+
+Objective: The objective of the game is to be the first player to create a line of three of their own marks horizontally, vertically, or diagonally.
+
+Winning: If a player succeeds in placing three of their marks in a row (horizontally, vertically, or diagonally), they win the game.
+
+Ending the Game: The game ends as soon as one player achieves a winning combination, and that player is declared the winner. If all cells in the grid are filled and no player has achieved a winning combination, the game is a draw.
+
+Draw: If the game ends in a draw, both players are considered to have tied, and no one wins.
+
+
+Optional: You can play multiple rounds, switching the starting player each time, to determine an overall winner.
