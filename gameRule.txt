@@ -14,4 +14,5 @@ Ending the Game: The game ends as soon as one player achieves a winning combinat
 
 Draw: If the game ends in a draw, both players are considered to have tied, and no one wins.
 
+
 Optional: You can play multiple rounds, switching the starting player each time, to determine an overall winner.
