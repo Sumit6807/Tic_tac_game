@@ -1,5 +1,6 @@
 Tic Tac Toe is a classic pen-and-paper game played on a 3x3 grid. Two players take turns marking spaces in the grid, typically one player uses "X" and the other uses "O". The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. If the grid is filled without either player achieving a winning combination, the game is a draw.
 
+
 Here's a step-by-step guide on how to play Tic Tac Toe:
 
 Setting up the Game: Draw a 3x3 grid. This will serve as the game board.
